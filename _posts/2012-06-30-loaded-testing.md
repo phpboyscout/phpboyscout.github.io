@@ -15,7 +15,7 @@ tags:
 
 I recently had to do some load testing for a site recently that would allow me to test in excess of 100k requests in a 60 second period...
 
-[![JMeter](images/jmeter-logo.jpg "jmeter-logo")](http://jmeter.apache.org/)
+[![JMeter](/assets/images/jmeter-logo.jpg "jmeter-logo")](http://jmeter.apache.org/)
 
 So I decided to do some testing using JMeter as it seemed like a suitable tool for doing what I needed and I had used it for some simpler testing in the past.
 
@@ -108,7 +108,7 @@ saving this to `/etc/init/jmeter-server.conf` will mean that it will auto-start 
 
 and thats it... instance configured
 
-[![Powered by AWS](images/AWS_Logo_PoweredBy_300px.png "AWS_Logo_PoweredBy_300px")](http://aws.amazon.com/)All you need to do now is save the instance as an AMI and you have an on-demand image for spinning up a cluster of remote JMeter servers for you to play with.
+[![Powered by AWS](/assets/images/AWS_Logo_PoweredBy_300px.png "AWS_Logo_PoweredBy_300px")](http://aws.amazon.com/)All you need to do now is save the instance as an AMI and you have an on-demand image for spinning up a cluster of remote JMeter servers for you to play with.
 
 ## Configuring your local installation
 

@@ -35,19 +35,19 @@ You will also need to define a new network to work with. We use this to isolate 
 
 You can create a new network when creating the first of your servers. On the creation page under the networks heading you can find a "Create Network" button.
 
-[![create-network](images/create-network.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/create-network.png)Hopefully this should be quite self explanatory. Now when you create subsequent servers you will then have the option to attach your new network ("GlusterNet" in my example).
+[![create-network](/assets/images/create-network.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/create-network.png)Hopefully this should be quite self explanatory. Now when you create subsequent servers you will then have the option to attach your new network ("GlusterNet" in my example).
 
 Once the two starting nodes have been created then you need to add some additional block storage to store your data on. Make sure that you create blocks that have sufficient capacity for your needs. Something else to consider is using High Performance SSD storage. Its a little on the pricy side but well worth the expense if you are trying to eak out every ounce of performance from the implementation.
 
-[![block-storage](images/block-storage.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/block-storage.png)
+[![block-storage](/assets/images/block-storage.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/block-storage.png)
 
 You will then need to attach one to each of your servers.
 
-[![attach-storage](images/attach-storage.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/attach-storage.png)
+[![attach-storage](/assets/images/attach-storage.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/attach-storage.png)
 
 Once attached you will be able to see the details of the block mount point from the block storage details page.
 
-[![storage-details](images/storage-details.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/storage-details.png)
+[![storage-details](/assets/images/storage-details.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/storage-details.png)
 
 Make a note of the mount point (in this case "/dev/xvdb") as we will need that in a minute.
 

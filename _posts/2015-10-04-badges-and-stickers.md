@@ -7,7 +7,7 @@ categories:
 
 One of the most prominent things I've been asked about regarding my promoting being a Good Code Scout, is where can we get the badges?
 
-![Screen Shot 2015-10-04 at 12.03.38](images/Screen-Shot-2015-10-04-at-12.03.38.png)  
+![Screen Shot 2015-10-04 at 12.03.38](/assets/images/Screen-Shot-2015-10-04-at-12.03.38.png)  
 Following on from a number of questions and subsequent tweets about it
 
 https://twitter.com/stuherbert/status/650591775732670466

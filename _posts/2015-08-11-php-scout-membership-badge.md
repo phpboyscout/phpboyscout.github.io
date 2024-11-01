@@ -7,7 +7,7 @@ categories:
 
 As the PHP Boy Scout I'm having some badges made and I wanted to introduce the all new PHP Scout Membership Badge.
 
-[![PHP Scout Membership Badge](images/elephpant.png)](http://phpboyscout.uk/wp-content/uploads/2015/08/elephpant.png) <!--more--> This badge shows that you are more than just a PHP Developer but also a good PHP Scout. This means that you have all the qualities it takes to be a PHP Scout and will :
+[![PHP Scout Membership Badge](/assets/images/elephpant.png)](http://phpboyscout.uk/wp-content/uploads/2015/08/elephpant.png) <!--more--> This badge shows that you are more than just a PHP Developer but also a good PHP Scout. This means that you have all the qualities it takes to be a PHP Scout and will :
 
 - always leave the codebase better than you found it
 - help other PHP developers be good Scouts

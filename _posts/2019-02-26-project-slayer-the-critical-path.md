@@ -11,7 +11,7 @@ tags:
 
 The first of my new round of talk abstracts! In all honesty this isn't a talk but something more that came out of a very drunken Saturday night at #phpbnl19. There were a bunch of us sat talking and somehow the topic of D&D came up which sent my mind racing with this idea... By the time 2am rolled around I had a fully formed idea along with some willing players to help with the idea. Now I just need to find a conference willing to take a chance on it! If you know a conference that would be interested let me know
 
-![](images/c7c3a029d172b33287003d26a0c693f9.png)
+![](/assets/images/c7c3a029d172b33287003d26a0c693f9.png)
 
 ### **Description/Abstract**
 

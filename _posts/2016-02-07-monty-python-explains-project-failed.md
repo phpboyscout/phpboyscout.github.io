@@ -9,7 +9,7 @@ As part of the attempt to develop my profile as a speaker, I've realised that I 
 
 My favourite so far is one title **"Python explains why your project failed"**. This is a tongue in cheek talk which aims to poke fun at the Developer, PM and of course the client!
 
-![9780563558200](images/9780563558200.jpg)
+![9780563558200](/assets/images/9780563558200.jpg)
 
 ## The TL;DR
 

@@ -13,13 +13,13 @@ If you would like to find out more of the specifics about PSR-7 you can take a l
 
 Now on to the metaphor <!--more-->
 
-Imagine a house on fire, a bizarre way to start I know but bear with me. The nearest well with water that can put out the fire is 500 meters away! We then have a human chain stretching between the well and the house with a bucket going back and forth between trying to put the fire out. ![fire-bucket-brigade](images/fire-bucket-brigade.jpg) So lets break this down, the house represents the internet, or more specifically you and your browser. The fact you are on fire means that you are desperately needing water to quench the flames. At this point you send an empty bucket which represents your "request", along the human chain, which in itself represents the application, to the well.
+Imagine a house on fire, a bizarre way to start I know but bear with me. The nearest well with water that can put out the fire is 500 meters away! We then have a human chain stretching between the well and the house with a bucket going back and forth between trying to put the fire out. ![fire-bucket-brigade](/assets/images/fire-bucket-brigade.jpg) So lets break this down, the house represents the internet, or more specifically you and your browser. The fact you are on fire means that you are desperately needing water to quench the flames. At this point you send an empty bucket which represents your "request", along the human chain, which in itself represents the application, to the well.
 
 At the start of the chain the bucket is pretty normal, it's a bucket of course, its round, made of wood with a rope handle, lets say it has a small leak in it.
 
 As it travels down the chain it's passed from person to person, everyone in it has the opportunity to do something with the bucket, or not as the case may be and could just pass it to the next person in the chain. Others may attempt to fix the leak in the bucket, someone may choose to replace it with a metal bucket, change the handle or make it bigger. Regardless of what may be done to the bucket in essence it remains a bucket.
 
-![colonial_bucket3](images/colonial_bucket3.jpg)
+![colonial_bucket3](/assets/images/colonial_bucket3.jpg)
 
 Inexorably the bucket will continue to move down the chain to the well. When it reaches the well it changes state because now it has been filled with water. All of the interaction with the bucket thus far, mean that what happens at the well could vary depending on the changes have been made . If its been made bigger, for example, it could be filled with significantly more water, if swapped for a metal one it could imply that the bucket descends the well to get the water quicker because its heavier. Either way it is filled with water and begins its journey back towards the house.
 

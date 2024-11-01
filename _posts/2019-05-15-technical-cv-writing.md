@@ -27,7 +27,7 @@ OK! let's start with some general observations I follow with regard to my own CV
 
 Love them or loathe them they are a part of the recruitment ecosystem and they will help you get hired. When you send them a copy of your CV bear in mind that they will most likely try to squeeze it into a format that will include their own branding and a cover sheet with some pertinent details on it. They may also then start redacting information off your CV in an effort to anonymise you. It is also possible that they will use the same CV for multiple roles meaning you will need to insist that they send your tailored CV if you are really bothered about winning a specific position.
 
-![](images/How-recruiters-really-work.jpg)
+![](/assets/images/How-recruiters-really-work.jpg)
 
 Make sure to discuss this with your recruiter before having them put you forward for a role you are keen on.
 
@@ -43,7 +43,7 @@ You will also find that an up-to-date CV is easier to tailor to any specific job
 
 <figure>
 
-[![A highly styleised CV that hurts my eyes](images/Screenshot-from-2019-05-15-09-34-26-193x300.png)](https://weare.guru/creative-cvs/)
+[![A highly styleised CV that hurts my eyes](/assets/images/Screenshot-from-2019-05-15-09-34-26-193x300.png)](https://weare.guru/creative-cvs/)
 
 <figcaption>
 
@@ -65,7 +65,7 @@ I would recommend taking a middle-of-the-road approach. Keeping things concise i
 
 ### PDF
 
-![](images/adobe-pdf-icon-logo-png-transparent-150x150.png)
+![](/assets/images/adobe-pdf-icon-logo-png-transparent-150x150.png)
 
 This one feels like it should be a "no brainier"... Make sure to submit your CV as a PDF!
 
@@ -75,7 +75,7 @@ Second, While it is not impossible it discourages recruiters from tampering with
 
 ## Beginnings
 
-![](images/cv.intro_.png)
+![](/assets/images/cv.intro_.png)
 
 And so we have the start of My CV. Looks pretty boring, doesn't it? Black text on a white background. Nothing fancy!
 
@@ -96,7 +96,7 @@ I've also chosen consistent font sizes and spacing;
 
 <figure>
 
-![](images/matthew-cockayne-bw-square_1000-150x150.jpg)
+![](/assets/images/matthew-cockayne-bw-square_1000-150x150.jpg)
 
 <figcaption>
 
@@ -125,7 +125,7 @@ I could expand on this to state other goals and ambitions but that would just de
 
 Now we come to the meat and bones of the CV. This is the headline! the bit that you will tailor the most in order to impress whoever is scheduling those interviews and guarantee you a chance to shine. If you can make this captivating enough for the person you need to impress they will then be more than happy to read the rest
 
-![](images/cv.skill_.png)
+![](/assets/images/cv.skill_.png)
 
 My CV has a LOT of skills listed. This is mainly because I'm a show off more than anything else and in reality, I will tailor this heavily to suit whatever role I'm applying for. For example, if it doesn't have a requirement for managerial skills I would drop that section entirely. Depending on the required attributes and skills asked for I would happily add/remove bits to any section of my skills.
 
@@ -155,7 +155,7 @@ As a useful side effect, by stating a duration in years prompts me to review and
 
 By this point, I'm hoping that I've captured the readers' imagination. That they now envision a Development God has graced them with a CV worthy of filling any role they have...
 
-![](images/Screenshot-from-2019-06-12-12-34-34.png)
+![](/assets/images/Screenshot-from-2019-06-12-12-34-34.png)
 
 And then come back down to earth with a bump! Next up in the firing line is Work Experience. Here I define some of the previous positions I have held in my illustrious career in somewhat chronological order. I say **some** because I have a general rule of limiting what I put on the CV to either 10 years or 10 positions, whichever comes first. This hasn't been a hard and fast rule over the years, and it's fine to flex in order to suit the roles I've gone for. There is no reason whatsoever though to go so far back in time as to describe my time as a pot-washer when I was 17.
 
@@ -163,7 +163,7 @@ In some cases, I've also omitted some things from my CV. Somewhere in and around
 
 #### To the point
 
-![](images/bigstock-From-Point-A-To-Point-B-41405269-300x200.jpg)
+![](/assets/images/bigstock-From-Point-A-To-Point-B-41405269-300x200.jpg)
 
 I don't like big sprawling paragraphs of text if you haven't already got the gist. So for me, bullet points are the way forward. I try to keep it fairly obvious and detail achievements and document things I have done, and not the tools I have used.
 
@@ -187,13 +187,13 @@ The job title will come next in bold of course to help it stand out. Followed im
 
 The bulk of the hard work is now done! We have put in the sales pitch and hopefully, we are close to being invited to an interview. Time to put in some supporting information
 
-![](images/cv.education.png)
+![](/assets/images/cv.education.png)
 
 This may come as a surprise to some people but I didn't do the whole University thing... I mean I lived in a University city and frequented the student union bars, but was never actually enrolled in a course. To this effect, I bolstered my CV when I started out by going and obtaining some (now significantly outdated) professional certifications.
 
 Regardless of my lack of educational achievements I would always recommend keeping it simple unless it is your first position and you have no work experience (writing a CV in that situation probably needs to be another blog post entirely). List them in chronological order with some dates and a summary of what you obtained... no one needs to know that I completely fluked getting a GCSE in Art.
 
-![](images/educ-300x169.jpg)
+![](/assets/images/educ-300x169.jpg)
 
 Were I to have a Degree I would obviously have the institution and dates in there along with my final marks. I would also look at listing the modules I completed that are relevant to my career, providing I did a Computer Sciences degree and not something like Biology. Again, it's all about keeping to the point and providing specific information to bolster everything else you may have done.
 
@@ -201,7 +201,7 @@ Were I to have a Degree I would obviously have the institution and dates in ther
 
 Time to finish off with a little bit of something personal. I don't want to spend too much time here but I want to show that there is more to who I am than just work. I decided to keep it simple, a simple list of things that I enjoy doing in my spare time (When I have any, being a father of 3). The idea here is that these can become conversation pieces with the people that may be interviewing you. I've ended up a number of times having interviews where I talk about Scouts.
 
-![](images/cv.prsonal.png)
+![](/assets/images/cv.prsonal.png)
 
 The final flourish here should be something simple but gives someone a helping hand at learning more about you if they feel so inclined. I include a link to my blog and my GitHub account, but you could include anything that may be relevant.
 

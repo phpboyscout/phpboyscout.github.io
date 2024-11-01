@@ -14,7 +14,7 @@ I love Ubuntu... I'm pretty fond of dell kit too!
 
 So I was rather chuffed when I started working at [Medicines Discovery Catapult](https://md.catapult.org.uk) because they let me have both. When you look at my desk it looks like it could be an advert for Dell. Laptop, monitors, dock, keyboard and mouse.... its great when you have a corporate account with a Dell reseller
 
-![](images/20190514_124153.png)
+![](/assets/images/20190514_124153.png)
 
 However while I've had a lot of success with the D3000 DisplayLink dock on Ubuntu I found that I'm now having to deal with the upgraded D6000... which doesn't play very nicely with the more recent versions of Ubuntu (we are talking 18.04 and later)
 

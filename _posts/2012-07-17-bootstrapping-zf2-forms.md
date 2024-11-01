@@ -150,7 +150,7 @@ $this->bootstrapForm($form, 'horizontal');
 
 Should now look something like this
 
-[![results of bootstrap helper](images/bootstrap-result1.png "bootstrap-result")](http://phpboyscout.uk/wp-content/uploads/2012/07/bootstrap-result1.png)
+[![results of bootstrap helper](/assets/images/bootstrap-result1.png "bootstrap-result")](http://phpboyscout.uk/wp-content/uploads/2012/07/bootstrap-result1.png)
 
 ### How you can use it
 

@@ -27,13 +27,13 @@ You first must set PHPStorm to use remote file paths. To set these go to the fol
 
 This gives the following display:
 
-[![PHPStorm Peferences](images/PHPStorm-Peferences.png)](http://phpboyscout.uk/wp-content/uploads/2013/02/PHPStorm-Peferences.png)
+[![PHPStorm Peferences](/assets/images/PHPStorm-Peferences.png)](http://phpboyscout.uk/wp-content/uploads/2013/02/PHPStorm-Peferences.png)
 
 Replace the Name, Host and Absolute path on the server, to match your own settings. Note keep the Name and Host the same for ease.
 
 Next add some breakpoints in PHPStorm and set it to listen for any debug connections using the listener icon:
 
-[![Listen to debug connections](images/Listen-to-debug-connections.png)](http://phpboyscout.uk/wp-content/uploads/2013/02/Listen-to-debug-connections.png)
+[![Listen to debug connections](/assets/images/Listen-to-debug-connections.png)](http://phpboyscout.uk/wp-content/uploads/2013/02/Listen-to-debug-connections.png)
 
 Now login to your Remote Server via SSH etc.
 

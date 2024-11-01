@@ -105,7 +105,7 @@ And we can now use `fdisk -l` or `lsblk -p` to see that we now have a partition 
 
 Our disk is now ready for use, but not yet encrypted, so our next step is to create a key that can be used when we encrypt the disk. As we are going to be mounting it automatically we want to use a keyfile to store the key. You can of course create a key by mashing the keys on the keyboard, but I tend to prefer letting something else do the hard part for me.
 
-![](images/encryption-encoding-hashing-1.jpg)
+![](/assets/images/encryption-encoding-hashing-1.jpg)
 
 First we create somewhere to store the key... I opted for,
 
@@ -123,7 +123,7 @@ Here I am using `/dev/urandom` as my randomness generator, but you could use any
 
 ## Encrypting the Disk
 
-![](images/luks-logo-cropped.png)
+![](/assets/images/luks-logo-cropped.png)
 
 Hopefully it will already be installed because you encrypted your root disk at installation, but if not you can run `apt install cryptsetup` to get going.
 

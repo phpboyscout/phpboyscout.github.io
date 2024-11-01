@@ -17,7 +17,7 @@ We recently had the need to create a queuing system to replace an implementation
 
 <!--more-->
 
-[![This is a simple Queue and Client Diagram](images/clientQueue.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/clientQueue.png)
+[![This is a simple Queue and Client Diagram](/assets/images/clientQueue.png)](http://phpboyscout.uk/wp-content/uploads/2013/03/clientQueue.png)
 
 The diagram above helps describe our basic queuing system. We have a queue daemon that is continuously listening for connections and two clients, one that populates the queue and the other that retrieves from the queue.
 

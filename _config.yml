@@ -19,16 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: PHP Boy Scout
+subtitle: Always leave the codebase better than you found it
 email: matt@phpboyscout.uk
-description: >- # this means to ignore newlines until "baseurl:"
-  Always leave teh codebase better than you found it
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://phpboyscout.uk" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  phpboyscout
 
 # Build settings
-theme: minima
+#theme: monophase
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
 

@@ -17,17 +17,17 @@ coverImage: "tfOnZwZBwA-e1593539639171.jpg"
 
 I'm a Dungeon Master! I don't mean that in the S&M sense! As in the game Dungeons & Dragons ([https://dnd.wizards.com](https://dnd.wizards.com)), where I run a weekly game as well as take part in a couple of campaigns as a player. It's a lot of fun and something I would definitely recommend you have a go at if you are so inclined
 
-[![](images/2c21aeda16de354ba5334551a883b481.png)](https://discord.com)
+[![](/assets/images/2c21aeda16de354ba5334551a883b481.png)](https://discord.com)
 
 There is a vast amount of tooling & tech out there that allows you to play remotely such as Virtual Table Tops, Character builders, online resources, etc. One such tool that gets used quite often is a chat service called Discord ([https://discord.com](https://discord.com)) It's really useful and allows you to easily be part of and manage communities of people.... Think IRC & Slack, but more up to date than IRC and less "workish" than Slack.
 
 As part of my online games I like being able to have ambient music to match the surroundings the players are traveling through, as well as some active elements thrown in for good measure. This is possible in a few different ways using discord but the way I want to set it up can be somewhat frustrating to set up. Let me explain:
 
-[![](images/logo-1.jpg)](https://syrinscape.com)
+[![](/assets/images/logo-1.jpg)](https://syrinscape.com)
 
 I have taken a shine to two tools in particular... Syrinscape ([https://syrinscape.com](https://syrinscape.com)) and Table Top Audio ([https://tabletopaudio.com](https://tabletopaudio.com)). The former being a windows app with an nice interactive mixing UI that allows you to combine and generate unique sounds, the latter being a lovely web service that has some fantastic loop-able ambient background tracks all 100% free.
 
-[![](images/header3.png)](https://tabletopaudio.com)
+[![](/assets/images/header3.png)](https://tabletopaudio.com)
 
 I am wanting to be able to pipe the audio from these two services into my Discord server so that I can make use of the fantastic audio they offer. This is the journey of how I managed to get this working, partly as a reminder for me if I ever need to do this again and also to help others that may be looking to do the same.
 
@@ -119,7 +119,7 @@ I'm now going to assume you have logged yourself into the Discord client and fir
 
 Now we can start `pavucontrol` either from the command line or you can look for it in your applications menu. Once it loads you will hopefully be presented with something that looks like;
 
-![](images/Screenshot-from-2020-07-06-09-40-23.png)
+![](/assets/images/Screenshot-from-2020-07-06-09-40-23.png)
 
 For this next step I am specifically starting on the "Recording" tab of `pavucontrol` this is to allow us to set up what is going to be captured. I have updated the drop-down at the bottom left to show "All Streams" as this will make it quicker to configure… Starting at the top we have two entries for;
 
@@ -135,7 +135,7 @@ and finally;
 
 Now that recording is configured we can sort out our playback.
 
-![](images/Screenshot-from-2020-07-06-09-41-57.png)
+![](/assets/images/Screenshot-from-2020-07-06-09-41-57.png)
 
 Here we can see the "Playback" tab of `pavucontrol`, again set to show "All Streams". This time I'm going to run through the elements here starting from the bottom of the list and working my way up...
 
@@ -157,7 +157,7 @@ That's is effectively all we need to do... From here on in anything you play via
 
 Though I will make a few small suggestions about how to configure your discord settings. You shouldn't need to make any adjustments to the input and output devices which should now be set to `Default` as your "Input Device" if you change this it will override the changes we have made and you will need to go back to the Recording tab of `pavucontrol` and switch **WEBRTC VoiceEngine** back to InputMic , but...
 
-![](images/Screenshot-from-2020-06-30-18-44-02.png)
+![](/assets/images/Screenshot-from-2020-06-30-18-44-02.png)
 
 I would recommend disabling automatic input sensitivity and lowering the sensitivity slider all the way down to -100dB... this is to allow for the potential low and subtle tones and ambient elements you may want to play... be warned though it makes it very very easy for an low quality microphone (such as the `Built-in Audio Analogue Stereo` microphone found on my laptop) to pick up other noises such as your systems fans, mouse clicks and typing. A simple way to combat this is to get a reasonable quality external cardioid condenser microphone which eliminates a lot of this unwanted background.
 

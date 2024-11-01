@@ -14,7 +14,7 @@ tags:
 
 I've been a Scout Leader for a few years now and the District I work within have very little by way of internet presence. As a bit of a pet project I started building a simple Scout based website for them to use.
 
-[![scouts-snapshot](images/scouts-snapshot.png)](http://phpboyscout.uk/wp-content/uploads/2015/08/scouts-snapshot.png) <!--more--> Its nothing too fancy, I created a simple module and theme for the Silverstripe CMS and have now put it into a GitHub Repository to share with the wider scouting community.
+[![scouts-snapshot](/assets/images/scouts-snapshot.png)](http://phpboyscout.uk/wp-content/uploads/2015/08/scouts-snapshot.png) <!--more--> Its nothing too fancy, I created a simple module and theme for the Silverstripe CMS and have now put it into a GitHub Repository to share with the wider scouting community.
 
 I chose Silverstripe because of the speed with which I could develop something usable as well as providing a super simple management interface that can be handled by users of all skill levels.
 
