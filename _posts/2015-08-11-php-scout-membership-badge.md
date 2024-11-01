@@ -1,8 +1,7 @@
 ---
 title: "The PHP Scout Membership Badge"
 date: "2015-08-11"
-categories: 
-  - "off-topic"
+
 ---
 
 As the PHP Boy Scout I'm having some badges made and I wanted to introduce the all new PHP Scout Membership Badge.

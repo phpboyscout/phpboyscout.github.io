@@ -1,8 +1,6 @@
 ---
 title: "Badges & Stickers"
 date: "2015-10-04"
-categories: 
-  - "off-topic"
 ---
 
 One of the most prominent things I've been asked about regarding my promoting being a Good Code Scout, is where can we get the badges?

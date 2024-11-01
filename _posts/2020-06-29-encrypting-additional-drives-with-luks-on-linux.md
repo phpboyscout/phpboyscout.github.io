@@ -1,16 +1,13 @@
 ---
 title: "Encrypting additional drives with LUKS on Linux"
 date: "2020-06-29"
-categories: 
-  - "devops-sysadmin"
-  - "development"
 tags: 
   - "encryption"
   - "luks"
   - "security"
   - "sysadmin"
   - "ubuntu"
-coverImage: "encryption-encoding-hashing.jpg"
+cover-img: "/assets/images/encryption-encoding-hashing.jpg"
 ---
 
 Encryption is king nowadays with everyone having mobile devices. We have a significant number of people on laptops that travel around and also workstations that live in open plan offices. This means we encrypt all of our disks... just in case. 99% of the time is super simple to do as most OS installers give you the option to do it, some now ven enforce it as a default option. This post however is about adding an additional disk to the system and making it automatically mount on system startup.

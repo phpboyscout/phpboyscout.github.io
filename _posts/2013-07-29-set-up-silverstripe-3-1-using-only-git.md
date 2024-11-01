@@ -1,8 +1,6 @@
 ---
 title: "Set up SilverStripe 3.1 using only Git (No Composer)"
 date: "2013-07-29"
-categories: 
-  - "php"
 tags: 
   - "composer"
   - "git"

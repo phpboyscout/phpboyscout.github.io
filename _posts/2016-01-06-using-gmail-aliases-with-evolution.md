@@ -1,8 +1,6 @@
 ---
 title: "Using Gmail aliases with Evolution"
 date: "2016-01-06"
-categories: 
-  - "development"
 ---
 
 If your anything like me you have a large number of email aliases that you use with Gmail which is great. However I use [Evolution](https://wiki.gnome.org/Apps/Evolution) as a mail client more often than not when using [Gnome3](https://www.gnome.org/) as a desktop.

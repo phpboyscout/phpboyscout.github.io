@@ -1,8 +1,6 @@
 ---
 title: "Our Redmine install died, We all cried!"
 date: "2013-02-23"
-categories: 
-  - "devops-sysadmin"
 tags: 
   - "12-10"
   - "2-2"

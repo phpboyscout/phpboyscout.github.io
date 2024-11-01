@@ -1,8 +1,6 @@
 ---
 title: "A metaphor about PSR-7 and Middleware for non-developers"
 date: "2015-10-08"
-categories: 
-  - "php"
 ---
 
 Never one to shy away from coming up with a metaphor for explaining something technical I found myself having to come up with one on the spot for PSR-7 and Middleware while at the recent PHPNW15 Conference.

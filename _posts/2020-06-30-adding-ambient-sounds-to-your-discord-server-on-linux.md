@@ -1,10 +1,6 @@
 ---
 title: "Adding Ambient Sounds to your Discord Server On LInux"
 date: "2020-06-30"
-categories: 
-  - "dd"
-  - "development"
-  - "off-topic"
 tags: 
   - "dd"
   - "discord"
@@ -12,7 +8,7 @@ tags:
   - "syrinscape"
   - "tabletopaudio"
   - "ubuntu"
-coverImage: "tfOnZwZBwA-e1593539639171.jpg"
+cover-img: "/assets/images/tfOnZwZBwA-e1593539639171.jpg"
 ---
 
 I'm a Dungeon Master! I don't mean that in the S&M sense! As in the game Dungeons & Dragons ([https://dnd.wizards.com](https://dnd.wizards.com)), where I run a weekly game as well as take part in a couple of campaigns as a player. It's a lot of fun and something I would definitely recommend you have a go at if you are so inclined

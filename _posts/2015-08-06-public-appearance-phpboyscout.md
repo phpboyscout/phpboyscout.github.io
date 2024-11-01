@@ -1,8 +1,6 @@
 ---
 title: "My first ever public appearance as PHPBoyScout"
 date: "2015-08-06"
-categories: 
-  - "talks"
 tags: 
   - "scouts"
   - "talks"

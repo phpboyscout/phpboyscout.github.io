@@ -1,8 +1,6 @@
 ---
 title: "Are you a Good Code Scout? - NomadPHP lightning talk video"
 date: "2016-01-06"
-categories: 
-  - "talks"
 ---
 
 https://www.youtube.com/watch?v=Tt0lnauF5lI

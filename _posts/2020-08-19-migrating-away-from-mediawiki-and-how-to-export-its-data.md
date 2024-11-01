@@ -1,8 +1,6 @@
 ---
 title: "Migrating away from Mediawiki and how to export its data"
 date: "2020-08-19"
-categories: 
-  - "development"
 ---
 
 I like Mediawiki, it is a simple tool capable of doing a lot and can be very flexible and easy to customise. However its not always the right solution! I had a situation where we needed to migrate away from using it for a combination of security and usability reasons. So I thought it would be good to document it.

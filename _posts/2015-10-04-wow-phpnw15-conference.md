@@ -1,8 +1,6 @@
 ---
 title: "Wow... What a Conference"
 date: "2015-10-04"
-categories: 
-  - "off-topic"
 ---
 
 So I attended the PHPNW15 conference this weekend and what a weekend. I've been an attendee of the conference for a number of years and have always enjoyed it immensely. However this year turned out to be something special.

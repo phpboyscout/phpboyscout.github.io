@@ -1,8 +1,6 @@
 ---
 title: "Installing PECL extensions for Zend Server 6"
 date: "2013-05-13"
-categories: 
-  - "php"
 tags: 
   - "pecl"
   - "phpize"

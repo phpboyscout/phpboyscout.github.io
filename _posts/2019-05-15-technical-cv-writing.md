@@ -1,12 +1,10 @@
 ---
 title: "Technical CV writing is hard"
 date: "2019-05-15"
-categories: 
-  - "off-topic"
 tags: 
   - "cv"
   - "recruitment"
-coverImage: "writing-a-cv.jpg"
+cover-img: "/assets/images/writing-a-cv.jpg"
 ---
 
 Recruiting people is effing hard!

@@ -21,6 +21,7 @@
 title: PHP Boy Scout
 subtitle: Always leave the codebase better than you found it
 email: matt@phpboyscout.uk
+url-pretty: "phpboyscout.uk"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://phpboyscout.uk" # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,6 +33,35 @@ github_username:  phpboyscout
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/images/7816e69efe1094de25f347be8f20d6e0.jpg"
+round-avatar: true
+
+social-network-links:
+  email: "matt@phpboyscout.uk"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: phpboyscout
+
+# Add a search button to the navbar
+post_search: true
+
+# Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
+edit_page_button: true
+
+timezone: "Europe/London"
+markdown: kramdown
+highlighter: rouge
+# permalink: /:year-:month-:day-:title.html
+paginate: 5
+
+kramdown:
+  input: GFM
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

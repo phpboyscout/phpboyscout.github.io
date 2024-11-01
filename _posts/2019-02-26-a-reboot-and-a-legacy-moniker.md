@@ -1,8 +1,6 @@
 ---
 title: "A reboot and a legacy moniker"
 date: "2019-02-26"
-categories: 
-  - "off-topic"
 ---
 
 So... my last post was a good 2 years ago now.... Hi how have you been?

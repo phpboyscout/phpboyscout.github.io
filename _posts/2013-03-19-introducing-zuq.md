@@ -1,8 +1,6 @@
 ---
 title: "Introducing ZuQ - A Simple ZeroMQ Queuing Daemon"
 date: "2013-03-19"
-categories: 
-  - "php"
 tags: 
   - "c"
   - "php"

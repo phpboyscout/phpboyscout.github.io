@@ -1,8 +1,6 @@
 ---
 title: "Glorious Gluster - How to setup GlusterFS on Rackspace Cloud and Ubuntu 12.10"
 date: "2013-03-15"
-categories: 
-  - "devops-sysadmin"
 tags: 
   - "12-10"
   - "gluster"

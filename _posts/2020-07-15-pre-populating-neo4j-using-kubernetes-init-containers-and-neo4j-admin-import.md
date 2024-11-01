@@ -1,17 +1,13 @@
 ---
 title: "Pre-populating Neo4J using Kubernetes Init Containers and neo4j-admin import"
 date: "2020-07-15"
-categories: 
-  - "devops-sysadmin"
-  - "development"
-  - "kubernetes"
+cover-img: /assets/images/maxresdefault.jpg
 tags: 
   - "bash"
   - "databases"
   - "docker"
   - "kubernetes"
   - "neo4j"
-coverImage: "maxresdefault.jpg"
 ---
 
 Recently there has been an uptake in the use of Neo4j by the Data Scientists. This is a good thing! they are wanting to use the right tool for the job. However we need to run it inside our k8s cluster as a portable readable data source that has been dynamically populated from a pile of data in a combination of PostgreSQL and MongoDB.

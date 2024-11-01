@@ -1,8 +1,6 @@
 ---
 title: "Monty Python explains why your project failed!"
 date: "2016-02-07"
-categories: 
-  - "talks"
 ---
 
 As part of the attempt to develop my profile as a speaker, I've realised that I sometimes need to explain a few of my current talk abstracts a bit too much. This is mainly due to my lack of experience writing them and that the majority of my current talk ideas cover large topics that are not as technical as I would like.

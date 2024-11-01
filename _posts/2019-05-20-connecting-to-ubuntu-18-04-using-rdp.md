@@ -1,8 +1,6 @@
 ---
 title: "Connecting to Ubuntu 18.04+ using RDP"
 date: "2019-05-20"
-categories: 
-  - "devops-sysadmin"
 ---
 
 We have a mix of different setups that the Software Engineer and Data Scientists use to get their work done. There are some using just Linux on laptops, Some on MacBooks and some on the various versions of Windows.

@@ -1,8 +1,6 @@
 ---
 title: "Project Slayer: The Critical Path"
 date: "2019-02-26"
-categories: 
-  - "abstracts"
 tags: 
   - "abstract"
   - "dungeons-and-dragons"

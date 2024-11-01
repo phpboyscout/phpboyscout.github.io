@@ -1,8 +1,6 @@
 ---
 title: "Creating Custom Routes in Silverstripe 3.1"
 date: "2013-07-31"
-categories: 
-  - "php"
 tags: 
   - "routes"
   - "silverstripe"

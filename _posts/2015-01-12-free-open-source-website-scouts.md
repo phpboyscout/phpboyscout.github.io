@@ -1,8 +1,6 @@
 ---
 title: "Free Open Source Website for Scouts"
 date: "2015-01-12"
-categories: 
-  - "scouts"
 tags: 
   - "cms"
   - "opensource"

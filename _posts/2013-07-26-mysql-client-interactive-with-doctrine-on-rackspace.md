@@ -1,9 +1,6 @@
 ---
 title: "Enabling MYSQL_CLIENT_INTERACTIVE with Doctrine 2 on Rackspace Cloud Database"
 date: "2013-07-26"
-categories: 
-  - "development"
-  - "php"
 tags: 
   - "doctrine"
   - "doctrine-2-0"

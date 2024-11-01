@@ -1,13 +1,10 @@
 ---
 title: "Dell DisplayLink D6000 & Ubuntu 18.04+ Issues"
 date: "2019-05-14"
-categories: 
-  - "devops-sysadmin"
-  - "development"
 tags: 
   - "dell"
   - "ubuntu"
-coverImage: "20190514_124153.png"
+cover-img: "/assets/images/20190514_124153.png"
 ---
 
 I love Ubuntu... I'm pretty fond of dell kit too!

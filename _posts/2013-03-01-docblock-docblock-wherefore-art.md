@@ -1,8 +1,6 @@
 ---
 title: "Docblock, Oh Docblock, wherefore art thou Docblock (hint: Zend Optimizer Plus lost them)"
 date: "2013-03-01"
-categories: 
-  - "php"
 tags: 
   - "5-4"
   - "apc"

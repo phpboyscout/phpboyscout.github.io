@@ -1,8 +1,6 @@
 ---
 title: "Flexbox cross browser"
 date: "2013-08-16"
-categories: 
-  - "html-css"
 tags: 
   - "chrome"
   - "css"

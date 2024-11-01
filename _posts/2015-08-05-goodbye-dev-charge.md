@@ -1,8 +1,6 @@
 ---
 title: "Goodbye Dev in Charge"
 date: "2015-08-05"
-categories: 
-  - "off-topic"
 ---
 
 Over all the time that I've been a developer I've had people telling me that I should get in front of an audience and speak. However I've always suffered from a rather bad case of 'Imposter Syndrome' which meant my automatic response to those kind of statements has always been... I don't really know enough about any one topic.

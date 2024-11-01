@@ -1,8 +1,6 @@
 ---
 title: "Better Output for MySQL Select Command Using \\G"
 date: "2013-04-24"
-categories: 
-  - "development"
 tags: 
   - "cli"
   - "mysql"

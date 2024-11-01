@@ -1,8 +1,6 @@
 ---
 title: "Its time for a change"
 date: "2014-12-02"
-categories: 
-  - "off-topic"
 ---
 
 So... Its been a long time since I posted anything of any relevance. This is due to having been super busy with my previous company Zucchi.
