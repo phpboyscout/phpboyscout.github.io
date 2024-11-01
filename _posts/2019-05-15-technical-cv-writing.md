@@ -25,8 +25,6 @@ OK! let's start with some general observations I follow with regard to my own CV
 
 Love them or loathe them they are a part of the recruitment ecosystem and they will help you get hired. When you send them a copy of your CV bear in mind that they will most likely try to squeeze it into a format that will include their own branding and a cover sheet with some pertinent details on it. They may also then start redacting information off your CV in an effort to anonymise you. It is also possible that they will use the same CV for multiple roles meaning you will need to insist that they send your tailored CV if you are really bothered about winning a specific position.
 
-![](/assets/images/How-recruiters-really-work.jpg)
-
 Make sure to discuss this with your recruiter before having them put you forward for a role you are keen on.
 
 ### Keeping Up to Date
@@ -39,17 +37,9 @@ You will also find that an up-to-date CV is easier to tailor to any specific job
 
 ### Prettiness
 
-<figure>
-
-[![A highly styleised CV that hurts my eyes](/assets/images/Screenshot-from-2019-05-15-09-34-26-193x300.png)](https://weare.guru/creative-cvs/)
-
-<figcaption>
+![](/assets/images/Screenshot-from-2019-05-15-09-34-26-193x300.png)
 
 I know his name is Riccardo, but I'm struggling to focus on anything else
-
-</figcaption>
-
-</figure>
 
 Having a pretty CV is great! and if creativity is relevant to the vacancy you are hoping to fill then go for it... make it gorgeous. It is however very subjective so make sure that you understand what your potential employer is looking for. Sometimes less is more, especially considering they may be scanning through hundreds of CVs. If they have to spend half an hour looking for something specific, then it's gotten lost in all that creativity. If you want to see some gorgeous-looking CVs take a look at [https://weare.guru/creative-cvs/](https://weare.guru/creative-cvs/) all of them are creative and beautiful...
 
@@ -92,18 +82,9 @@ I've also chosen consistent font sizes and spacing;
 
 #### Limiting Liability
 
-<figure>
+![](/assets/images/matthew-cockayne-bw-square_1000.jpg)
 
-![](/assets/images/matthew-cockayne-bw-square_1000-150x150.jpg)
-
-<figcaption>
-
-Middle-aged, liberal, heterosexual white male programmer  
-Swipe right to Hire Me!!! Please!
-
-</figcaption>
-
-</figure>
+Middle-aged, liberal, heterosexual white male programmer Swipe right to Hire Me!!! Please!
 
 It may sound odd but I put as little personal information in my CV as possible. Hence why just my name and contact details exist. I don't mention my age, gender, race, driver status or political preferences. People come with inherent biases, that is just a fact of life. so putting as little as possible negates triggering these biases.
 
